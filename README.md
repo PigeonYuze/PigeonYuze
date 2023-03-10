@@ -1,4 +1,14 @@
-### Hi there 👋
+### 这里是PigeonYuze 👋
+
+你可以称呼我为宇泽！
+
+🌱 正在努力学习 Kotlin, Java ...以及一个成熟的码风~
+
+由于我现在还是一名初中生的原因，所以我并不常在`github`上活跃
+
+所以你可以看到我基本都是在周末活跃
+
+总之，请多指教！
 
 <!--
 **PigeonYuze/PigeonYuze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
